@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanielIstock
+- 👀 I’m interested in chess and playing piano : )
+- 🌱 I’m currently learning frontend :D
+- 📫 How to reach me ... 03danielistok@gmail.com
